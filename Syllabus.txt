@@ -1,0 +1,41 @@
+QUANTITATIVE METHODS (6 credits) 
+
+DESCRIPTION:
+
+The Quantitative Methods course is divided in three sections.
+
+In the first section, you will get acquainted with the types of variables and data distributions that we use and observe in research related to the cognitive neuroscience of language. Core concepts of probability and distributions will be discussed and you will learn how to describe statistical distributions graphically as well as numerically through simulation in the programming language R. In addition to descriptive statistics, we will also cover basic statistical comparisons (including t-tests), and procedures for deciding when conclusions can be drawn from comparisons. The relationship between variables is also covered, and you will learn to plot and explore the relationships between variables.
+
+The second section focuses on analysis of variance (ANOVA), the mostly commonly used statistical technique in much of the field. We will cover single-factor and two-factor designs, and the necessary follow-up tests for each of these. A single-factor ANOVA is essentially an expanded version of a t-test, with the expansion allowing you to run experiments that compare more than two groups. The two-factor ANOVA expands on the single-factor case, allowing you to look at the effects of two independent variables simultaneously. The follow-up tests allow you to pinpoint exactly where any observed effects in an ANOVA are coming from. We will see how each of these statistical tests is built to do what it is designed to do, and we will cover the assumptions that one makes when using these tests.
+
+The third (final) section will focus on linear regression, one of the most general and widely-used statistical models throughout science. Mimicking the structure of the second ANOVA section, we will cover univariate (single variable) and multiple regression, as well as hierarchical regression, which is appropriate for datasets with repeated measurements.
+
+BASIC TEXTBOOKS:
+
+For the first and last parts of the course, the textbook will be:
+
+Kruschke, J. (2014). Doing Bayesian data analysis: A tutorial with R, JAGS, and Stan. 2nd Edition. Academic Press.
+
+Note that it is the second edition.
+
+For Arthur Samuel’s part of the course the book Design and Analysis- a researcher’s handbook (G.Keppel and T.D. Wickens) would be needed. BCBL would provide the textbook to each student at the beginning of the course.
+
+EVALUATION CRITERIA:
+
+Performance will be assessed on three separate written exams focusing on the material covered in each section of the course. In sections 1 and 3, supplementary quizes and homework problems will also be assessed.
+
+DATES:
+
+Part 1 (Doug): Sep 12,17,19,24,26 Oct 1,3,8    SCHEDULE: 14:30-16:30
+
+Part 2 (Arty): Jan 14,16,21,23,28,30 Feb 4,6  SCHEDULE: 14:30-16:30
+
+Part 3 (Doug): Feb 11,13,18,20,25,27 Mar 4,6  SCHEDULE: 9:30-11:30
+
+TEACHERS:
+
+Doug Davidson & Arthur Samuel.
+
+PLACE:Korta building, Campus Gipuzkoa, UPV/EHU, Avda. Tolosa 72, Donostia, (Gipuzkoa)
+
+

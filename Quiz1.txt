@@ -1,0 +1,32 @@
+Quiz 1
+
+0.  Write your name and date: _____________________________
+
+
+1. What "type" of data is a name?  (Hint: What "scale" is it on?)
+
+a. metric
+b. nominal
+c. ordered
+d. count
+
+
+2. What "type" of data is a date or time measure?
+
+a. metric
+b. nominal
+c. ordered
+d. count
+
+
+3. Suppose we have a psychological response measure which has only two possible outcomes, and we don't know which is the "true" answer.  Which of the following is true?
+
+a. We need a large sample to estimate the answer.
+b. The probability of each of these outcomes is 1/2.
+c. The probability of one of the outcomes can be anywhere from 0 to 1.
+d. There is no method to estimate the true outcome.
+
+
+
+
+

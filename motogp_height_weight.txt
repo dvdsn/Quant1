@@ -1,0 +1,26 @@
+Rider, Weight, Height
+Mar, 59, 168
+Ped, 51, 160
+Dov, 67, 167
+Lor, 65, 171
+Vin, 64, 171
+Ros, 69, 181
+Zar, 66, 171
+Sya, 65, 180
+Pet, 82, 182
+Mil, 67, 175
+Cru, 65, 170
+Nak, 66, 174
+Bau, 58, 169
+Abr, 75, 182
+Ian, 67, 178
+Rin, 65, 176
+Red, 79, 185
+AEsp, 71, 180
+PEsp, 64, 171
+Smi, 66, 180
+Rab, 61, 178
+Sim, 65, 175
+Mor, 64, 176
+Lut, 65, 172
+
