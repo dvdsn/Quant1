@@ -1,0 +1,54 @@
+Quantitative Methods 1:
+
+* dates:
+Sep 12,17,19,24,26
+Oct 1,3,8
+
+* days & hours: MW afternoon 2:30- 4:30
+* Location: Korta, audiovisuales A1, floor -1
+
+
+Individual names and emails:
+
+Nombre	Apellido	email
+
+Ana	Gonzalez Martin	ana.gonzalez@ufv.es
+Laura	Fernandez Merino	laurafmg@hotmail.com
+Levi David	Stutzman	l.d.stutzman@gmail.com
+Lucia Camila	Leiva	lucia-leiva@hotmail.com
+Meritxell	Garcia Perea	meridium2@hotmail.com
+Patxi 	Elosegi Villanueva	patxielosegivillanueva@gmail.com
+Outhmane 	Rassili	outhmanerassili@gmail.com
+Kseniia	Serebrennikova	serebrennikova.kd@gmail.com
+Emiliia	Kerr	emilia.mkr@gmail.com
+Julia 	Reichert	julia.reichert93@gmx.de
+Sophie	Slaats	sophieslaats@outlook.com
+Outhmae	Rassili	outhmanerassili@gmail.com
+
+Eugenia Navarra	e.navarra@bcbl.eu
+Sanjeev Nara	s.nara@bcbl.eu
+Christoforos Souganidis	c.souganidis@bcbl.eu
+Xabier Ansorena	x.ansorena@bcbl.eu
+
+Email list:
+
+ana.gonzalez@ufv.es
+laurafmg@hotmail.com
+l.d.stutzman@gmail.com
+lucia-leiva@hotmail.com
+meridium2@hotmail.com
+patxielosegivillanueva@gmail.com
+outhmanerassili@gmail.com
+serebrennikova.kd@gmail.com
+emilia.mkr@gmail.com
+julia.reichert93@gmx.de
+sophieslaats@outlook.com
+outhmanerassili@gmail.com
+
+e.navarra@bcbl.eu
+s.nara@bcbl.eu
+c.souganidis@bcbl.eu
+x.ansorena@bcbl.eu
+
+
+

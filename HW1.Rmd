@@ -1,0 +1,8 @@
+
+# Read in data
+d <- read.csv("motogp_height_weight.txt", header=TRUE)
+
+# Plot a histogram
+hist(d$Height)
+
+

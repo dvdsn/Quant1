@@ -39,3 +39,26 @@ Doug Davidson & Arthur Samuel.
 PLACE:Korta building, Campus Gipuzkoa, UPV/EHU, Avda. Tolosa 72, Donostia, (Gipuzkoa)
 
 
+
+
+Reading Schedule for Quant 1
+
+	Date	Reading
+
+Sept	12	Introduction
+
+	17	2, 3
+
+	19	4
+
+	24	5
+
+	26	6,7
+
+Oct	 1	11, 12
+
+	 3	13
+
+	 8	Exam
+
+

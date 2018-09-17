@@ -1,0 +1,30 @@
+Quiz 2
+
+0. Write your name and date: _____________________________
+
+1. What "type" of data is weight?  (Hint: What "scale" is it on?)
+
+a. metric
+b. nominal
+c. dichotomous
+d. count
+
+
+2. What is the value of the variable 'x' if I write x <- sum(1:4):
+
+a. 4
+b. 2.5
+c. Cannot tell without more information
+d. 10
+
+
+3. If we write in R: x = 2; x != 4, the result would be:
+
+a. TRUE
+b. FALSE
+c. Cannot tell without more information
+d. NA
+
+
+
+
