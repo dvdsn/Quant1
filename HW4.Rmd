@@ -1,0 +1,12 @@
+
+Homework #4, due Sept 26, 2018
+
+
+
+1. Simulate a vector of observations from a binomial distribution where the probabilty of a 'success' is 0.55.
+
+2. Document your code
+
+3. Produce several tables showing the observed counts from this simulation for increasing sample sizes.
+
+4. How would you summarize each sample?

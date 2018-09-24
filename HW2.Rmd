@@ -1,0 +1,12 @@
+Homework for 19-09-2019
+========================================================
+
+- Read in the dataset
+- Create a histogram of weight
+- Change the x- and y- axis labels to include units
+- Change the main title
+- Save the plot as a .pdf 
+- Simulate values for a histogram like the plot you created
+- Send it as an email
+
+

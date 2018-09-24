@@ -1,0 +1,35 @@
+Quiz 3
+
+0. Write your name and date: _____________________________
+
+
+1. In R, the code 
+
+x <- 2:5 
+
+gives:
+
+a. five numbers
+b. 7
+c. 2 3 4 5
+d. a data frame
+
+
+2. The mean of a normal distribution for a variable is:
+
+a. A measure of central tendency
+b. The sum of all the observed values of a variable
+c. Cannot tell without more information
+d. Always larger than the variance
+
+
+3. For two outcomes, the conditional probability is:
+
+a. Always equal to 1.0
+b. FALSE
+c. Cannot tell without more information
+d. The joint probability divided by the known probability of one of the outcomes
+
+
+
+

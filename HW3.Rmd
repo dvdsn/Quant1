@@ -1,0 +1,10 @@
+
+Homework for 24-09-2018
+========================================================
+- Read in the example dataset
+- Create a histogram of height and assign the result to a variable in the workspace
+- Calculate the probability mass for each interval of mass
+- Calculate the probability density and confirm that it is the same as the output of hist
+- Send the code for producing the mass and density, along with comments in the code describing what you did
+
+

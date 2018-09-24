@@ -1,0 +1,41 @@
+Quiz 4
+
+0. Write your name and date: _____________________________
+
+
+1. In R, the code 
+
+x <- c(1,3,5,7)
+sum(x) 
+
+gives:
+
+a. the probability distribution
+b. the probility mass
+c. 16
+d. 4
+
+
+2. If we have an outcome variable 'y' from a Bernoulli distribution, and
+
+p(y=0|theta) = 0.25
+
+then what is the value for p(y=1|theta):
+
+a. 0.25
+b. 0.50 
+c. Cannot tell without more information
+d. 0.75
+
+
+3. The joint probability of two events A and B, written p(A,B) is:
+
+a. The probability of B given that we observe A
+b. Cannot tell without more information
+c. The probability that events A and B both occur
+d. The probability of A given that we observe B
+
+
+
+
+

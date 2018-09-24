@@ -1,4 +1,4 @@
-Quantitative Methods 1
+Quantitative Methods 2
 ========================================================
 author: Doug Davidson
 date: September 17, 2018
