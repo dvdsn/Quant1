@@ -1,0 +1,24 @@
+
+Homework #5, due Oct 01, 2018
+
+
+1. Download the program files for the text.  They can be found at:
+
+https://sites.google.com/site/doingbayesiandataanalysis/software-installation
+
+Follow the steps listed on that page (the first few steps you have already accomplished).  The collection of files you need is found in DBDA2Eprograms.zip.
+
+2. Source the following file:
+
+DBDA2E-utilities.R
+
+3. Simulate values from a unit normal distribution with a large number of samples.
+
+4. Calculate the highest density interval (e.g., HDI) for x using the function HDIofMCMC().
+
+5. Send the interval in an email.  What does it represent?
+
+
+
+
+

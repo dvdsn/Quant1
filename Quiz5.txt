@@ -1,0 +1,29 @@
+0. Write your name and date: _____________________________
+
+1. If we type in R the following:
+
+N <- 10000
+x <- rnorm(N, mean=0, sd=1)
+
+then the standard error for these samples should be approximately:
+
+a. 0
+b. 10000
+c. 0.01
+d. 1
+
+
+2. One goal of a Bayesian data analysis is to:
+
+a. Exclude outliers (i.e., data points that do not follow the general trend of the data)
+b. Identify the credibility of parameter values in a descriptive model of a dataset
+c. To find which pairs of parameter values are significantly different from each other
+d. Identify the most-likely data values 
+
+
+3. What does is mean if we say that an MCMC chain is "clumpy"?  Recall that an MCMC chain is a single simulation run for a parameter or group of parameters from the posterior distribution of a model.
+
+a. When the prior is not conjugate with the posterior.
+b. The different chains in the simulation run have mixed well.
+c. The simulated parameter values are evenly distributed over the possible parameter values.
+d. Many of the simulated values are similiar, reducing the effective sample size (ESS).
