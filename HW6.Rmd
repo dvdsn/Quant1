@@ -1,0 +1,12 @@
+
+Homework #6, due Oct 03, 2018
+
+
+1. Generate two samples from two distinct normal distributions.
+
+2. Compare the samples with a t-test.
+
+3. What does the confidence interval represent? (Send as an email)
+
+
+

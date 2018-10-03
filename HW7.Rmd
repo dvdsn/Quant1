@@ -1,0 +1,15 @@
+
+Homework #7, due Oct 08, 2018
+
+In this homework, I would like you to simulate a distribution of mean differences, when the mean differences are subject to selection by statistical significance.  I would like you to simulate the situation where scientists report estimates contingent on statistical significance testing.  The goal of the analysis is to examine how the effect estimate changes when selection occurs.
+
+Generate a series of samples from two distinct normal distributions where there is a small difference between means.
+
+For each pair of samples, compare the samples with a t-test and store the resulting mean difference and p-value in separate vectors.
+
+Examine the mean differences when they are statistically significant.  Compare that to the parameter values that generated the data.  What is the estimated difference when we do *not* selectively report based on statistical significance?
+
+Set up the simulation so that it can be reproduced with set.seed().  Document your code so that an informed reader (e.g., another scientist) could follow the steps you are taking.  Explain what the goal of the simulation is.  Include a summary statement describing what the simulation shows. You can include a graph or two to show your results if you think it is helpful.
+
+
+

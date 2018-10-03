@@ -1,0 +1,65 @@
+---
+title: "Example: Difference of means (robust)"
+author: "Doug Davidson"
+date: "October 3, 2018"
+output:
+  pdf_document: default
+  keep_md: yes
+  html_document: null
+---
+
+## Summary
+
+This is an example report showing an MCMC simulation for the difference in means.
+
+## Code for Bayes Analysis
+
+
+
+```{r setup}
+source("DBDA2E-utilities.R")
+source("Jags-Ymet-XmetSsubj-MrobustHier.R")
+```
+
+
+
+```{r read_in}
+### Read in the data
+d <- read.csv("z6N8z2N7.csv")
+y <- d$y
+s <- as.numeric(d$s)
+```
+
+
+
+
+```{r structure}
+### Bundle data into a list
+
+Ntotal <- length(y)
+Nsubj  <- length(unique(s))
+
+d <- data.frame( y = y,
+               x = x,
+               s = s)
+```
+
+
+
+```{r jags_run}
+### High-level script for JAGS
+
+mcmcCoda = genMCMC(data=d, numSavedSteps=10000)
+diagMCMC(mcmcCoda, parName="beta0[1]")
+smryMCMC(mcmcCoda, compVal=NULL, compValDiff=0.0)
+plotMCMC(mcmcCoda, data=d$x)
+```
+
+
+
+```{r frequentist_test}
+### Test
+t.test(y~x, data=d)
+```
+
+

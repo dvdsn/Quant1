@@ -1,0 +1,27 @@
+0. Write your name and date: _____________________________
+
+1. A confidence interval is:
+
+a. An interval of values that we can trust
+b. An interval of practically equivalent values
+c. An interval of values of a parameter that would not be rejected by a significance test
+d. An interval of values that need more confidence
+
+
+2. How can we increase statistical power?
+
+a. Increase sample size
+b. Reduce measurement noise
+c. Amplify the magnitude of the difference(s) we expect to see
+d. All of the above
+
+
+3. What does MCMC stand for?
+
+a. Minimum Confidence Maximum Computation
+b. My Computer Makes Coffee
+c. Markov Chain Monte Carlo
+d. Maximum Confidence Minimum Computation
+
+
+

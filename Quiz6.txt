@@ -1,0 +1,25 @@
+0. Write your name and date: _____________________________
+
+1. The acronym "ROPE" stands for:
+
+a. Really hOnestly Probably Equivalent
+b. Region Of Practical Equivalence
+c. Royal Opera Probability Exam
+d. Regression On Predicted Expectation
+
+
+2. In frequentist statistics, a "p value" is:
+
+a. The probability of obtaining a test statistic as extreme as (or more extreme than) the observed test statistic, assuming the null hypothesis is true, and assuming an intention to sample
+b. A factor describing whether the results are "extreme" or not
+c. The probability of the expected value
+d. An indicator of whether or not to trust the observed results
+
+
+3. Which of the following are sampling intentions?
+
+a. Fixing the sample size N before data collection
+b. Fixing a target parameter value before data collection
+c. Fixing a time limit for data collection
+d. All of the above
+
